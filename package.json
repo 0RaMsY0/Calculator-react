@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@svgr/plugin-svgo": "^6.1.2",
+    "css-select": "^4.2.1",
+    "nth-check": "^2.0.1"
   }
 }
