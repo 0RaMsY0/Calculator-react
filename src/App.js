@@ -55,7 +55,7 @@ function App() {
           <button onClick={calculat}>=</button> 
         </div>
       </div>
-      <h3>Created By Mohamed Said</h3> 
+      <h3>Created By 0RaMsY0</h3> 
     </div>
   );
 }
