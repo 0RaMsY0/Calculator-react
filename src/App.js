@@ -1,3 +1,5 @@
+//created by 0RaMsY0
+
 import {useState} from 'react';
 function App() {
   const [calc, setCalc] = useState("");
@@ -59,5 +61,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
